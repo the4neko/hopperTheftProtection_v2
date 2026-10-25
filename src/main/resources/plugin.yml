@@ -1,0 +1,9 @@
+name: hopperTheftProtection_v2
+description: $description
+version: '${version}'
+
+main: io.github.the4neko.hopperTheftProtection_v2.HopperTheftProtection_v2
+api-version: '26.2'
+load: POSTWORLD
+
+authors: [ the4neko ]
